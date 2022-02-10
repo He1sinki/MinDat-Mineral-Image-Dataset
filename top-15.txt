@@ -1,0 +1,15 @@
+quartz
+calcite
+fluorite
+baryte
+pyrite
+beryl
+wulfenite
+pyromorphite
+malachite
+cerussite
+gypsum
+copper
+smithsonite
+azurite
+hematite
